@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "mute-fire-435e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4804c778-cdf4-4fac-953e-759e85fc9396",
+      "database_name": "mute-fire-435e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
